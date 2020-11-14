@@ -1,5 +1,4 @@
-# Encryption via AES
-Encryption using AES in different modes
+# Encryption via AES in different modes
 
 Dependencies:
 1) https://pycryptodome.readthedocs.io/en/latest/src/introduction.html (for CBC, CFB and OFB modes)
