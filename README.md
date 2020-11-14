@@ -9,4 +9,4 @@ To encrypt/decrypt :
 1) Choose a mode which you want to use
 2) Download the script provided in the mode folder
 3) Put your data to be encrypted and the downloaded script in the same folder
-4) Run the script and encrypt files present in the current folder
+4) Run the script and encrypt/decrypt files present in the current folder
