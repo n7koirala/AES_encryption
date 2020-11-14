@@ -7,7 +7,6 @@ import os.path
 from os import listdir
 from os.path import isfile, join
 import time
-from base64 import b64decode
 from Crypto.Util.Padding import pad,unpad
 
 
